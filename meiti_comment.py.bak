@@ -18,10 +18,10 @@ import pymysql
 import json
 
 connect = pymysql.Connect(
-        host='*****',
+        host='rm-wz988to0p0a7js870o.mysql.rds.aliyuncs.com',
         port=3306,
         user='root',
-        passwd='****',
+        passwd='zd45+3=48',
         db='meiti',
         use_unicode=1,
         charset='utf8'
