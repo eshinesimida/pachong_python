@@ -19,10 +19,10 @@ import requests
 from lxml import etree
 
 connect = pymysql.Connect(
-    host='*****',
+    host='rm-wz988to0p0a7js870o.mysql.rds.aliyuncs.com',
     port=3306,
     user='root',
-    passwd='******',
+    passwd='zd45+3=48',
     db='ctrip_gengxin',
     use_unicode=1,
     charset='utf8'
